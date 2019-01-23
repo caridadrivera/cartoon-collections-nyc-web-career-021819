@@ -1,6 +1,13 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
+def roll_call_dwarves(names)
+  numberedArr = []
+ nameElements = names[i]
+
+counter = 0
+ while counter < names.length
+    numberedArr << nameElements.push("#{counter}.")
+counter += 1
 end
+
 
 def summon_captain_planet# code an argument here
   # Your code here
