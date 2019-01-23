@@ -1,14 +1,4 @@
 def roll_call_dwarves(names)
-  numberedArr = []
- nameElements = names[i]
-
-counter = 0
- while counter < names.length - 1
-    numberedArr << nameElements.push("#{counter}.")
-counter += 1
-end
-
-return numberedArr
 
 end
 
