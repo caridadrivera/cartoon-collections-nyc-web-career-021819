@@ -8,6 +8,10 @@ counter = 0
 counter += 1
 end
 
+return numberedArr
+
+end
+
 
 def summon_captain_planet# code an argument here
   # Your code here
